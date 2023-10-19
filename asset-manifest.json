@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/vivainosolutions/static/css/main.8732e443.css",
-    "main.js": "/vivainosolutions/static/js/main.68be709a.js",
+    "main.css": "/vivainosolutions/static/css/main.48aff4ae.css",
+    "main.js": "/vivainosolutions/static/js/main.0223b1c2.js",
     "static/js/787.71e672d5.chunk.js": "/vivainosolutions/static/js/787.71e672d5.chunk.js",
+    "static/media/about.jpg": "/vivainosolutions/static/media/about.717b55cef1fad8a9f1fd.jpg",
     "static/media/hero.jpg": "/vivainosolutions/static/media/hero.f172195ba2aef7aaca7c.jpg",
     "static/media/InverterBatteries.png": "/vivainosolutions/static/media/InverterBatteries.cdd3ce557501dc7d5c82.png",
     "static/media/logo.png": "/vivainosolutions/static/media/logo.fa53b94d3e1de27629ad.png",
@@ -13,12 +14,12 @@
     "static/media/waterPurifier.jpg": "/vivainosolutions/static/media/waterPurifier.919a55e9390a00ea6212.jpg",
     "static/media/solarBatteries.jpg": "/vivainosolutions/static/media/solarBatteries.bbc4ca4f06f0239d9494.jpg",
     "index.html": "/vivainosolutions/index.html",
-    "main.8732e443.css.map": "/vivainosolutions/static/css/main.8732e443.css.map",
-    "main.68be709a.js.map": "/vivainosolutions/static/js/main.68be709a.js.map",
+    "main.48aff4ae.css.map": "/vivainosolutions/static/css/main.48aff4ae.css.map",
+    "main.0223b1c2.js.map": "/vivainosolutions/static/js/main.0223b1c2.js.map",
     "787.71e672d5.chunk.js.map": "/vivainosolutions/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8732e443.css",
-    "static/js/main.68be709a.js"
+    "static/css/main.48aff4ae.css",
+    "static/js/main.0223b1c2.js"
   ]
 }
